@@ -1,5 +1,7 @@
-import HomeScreen from './HomeScreen';
-
 export default function IndexPage() {
-  return <HomeScreen />;
+  return (
+    <div>
+      <h1>Hello, Lovable App is Live 🎉</h1>
+    </div>
+  );
 }
